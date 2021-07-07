@@ -810,7 +810,7 @@ Header
 		color: #d65050;
 	}
 	#mainnav ul ul a {
-		width: 180px;
+		width: 200px;            /* 180px */
 		font-family: "Source Sans Pro", sans-serif !important;
 	}
 	#mainnav > ul > li:last-child {
@@ -820,7 +820,7 @@ Header
 		position: relative;
 	}
 	#mainnav ul li ul {
-		width: 180px;
+		width: 200px;          /* 180px */
 		position: absolute;
 		top: 100%;
 		left: initial;
