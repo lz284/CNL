@@ -1,0 +1,8 @@
+AuthUserFile /export/home1/tlcomlab/httpd/htdocs/soprano/tutorial/.htpasswd
+AuthGroupFile /dev/null
+AuthName ew2002
+AuthType Basic
+
+<Limit GET>
+require user ew2002
+</Limit>
