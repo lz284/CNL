@@ -1,0 +1,14 @@
+        <div class="bg-white-smoke">
+			<div class="container px-0">
+			  <div class="pt-1 pl-lg-6 pl-md-6 pl-6">
+				<div class="container pl-4" >
+				  <div class="row gx-6" >
+				  <div class="col-lg-4  col-md-5 col-12 pt-1"><h5><a href="https://ece.gmu.edu/">Electrical and Computer Engineering</a > </h5></div>
+				  <div class="col-lg-1  col-md-1 col-12 pt-1"><h5><a href="https://volgenau.gmu.edu/">VSE</a> </h5></div>
+				  <div class="col-lg-1  col-md-1 col-12 pt-1"><h5><a href="https://cec.gmu.edu/">CEC</a> </h5></div>
+				  <div class="col-lg-4  col-md-5 col-12 pt-1"><h5><a href="https://volgenau.gmu.edu/">George Mason University</a></h5></div>
+				  </div>
+				</div>
+			  </div>
+			</div>  
+		</div>

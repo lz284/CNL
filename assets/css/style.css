@@ -1148,7 +1148,7 @@ Layout
 		height: 100%;
 		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 		filter: alpha(opacity=70);
-		opacity: 0.8;
+		opacity: 0.7;
 	}
 	.page-wrap {
 		padding: 83px 0 100px;  /*83px 0 100px*/
